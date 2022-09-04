@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="622a2d26-ea78-4690-ba3b-866a3833b662" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/icon/128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/404.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting.json" beforeDir="false" afterPath="$PROJECT_DIR$/setting.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/blog/blog-homepage/img/icon",
+    "last_opened_file_path": "D:/blog/blog-homepage/css",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,9 +44,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\blog\blog-homepage\css" />
+      <recent name="D:\blog\blog-homepage\js" />
+      <recent name="D:\blog\blog-homepage" />
       <recent name="D:\blog\blog-homepage\img\icon" />
       <recent name="D:\blog\blog-homepage\home\img\icon" />
-      <recent name="D:\blog\blog-homepage\home" />
     </key>
   </component>
   <component name="RunManager">
@@ -76,7 +70,9 @@
       <option name="presentableId" value="Default" />
       <updated>1662281336127</updated>
       <workItem from="1662281337371" duration="3974000" />
-      <workItem from="1662286016177" duration="2058000" />
+      <workItem from="1662286016177" duration="2539000" />
+      <workItem from="1662293317702" duration="60000" />
+      <workItem from="1662294427150" duration="2841000" />
     </task>
     <servers />
   </component>

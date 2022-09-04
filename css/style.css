@@ -164,7 +164,7 @@ main {
     --bs-gutter-x: 0 !important;
 }
 
-.col.\32 {
+.col.\32  {
     margin: 0 1.5rem;
 }
 
@@ -785,13 +785,13 @@ i.iconfont.icon-github1 {
     border-color: #eeeeee !important;
 }
 
-.btn-check:focus+.btn,
+.btn-check:focus + .btn,
 .btn:focus {
     box-shadow: none !important;
 }
 
-.btn-check:active+.btn-outline-primary,
-.btn-check:checked+.btn-outline-primary,
+.btn-check:active + .btn-outline-primary,
+.btn-check:checked + .btn-outline-primary,
 .btn-outline-primary.active,
 .btn-outline-primary.dropdown-toggle.show,
 .btn-outline-primary:active {
@@ -815,7 +815,7 @@ i.iconfont.icon-github1 {
     margin: 1%;
 }
 
-input[type="radio"]+label {
+input[type="radio"] + label {
     padding: 6px 10px;
     background: #ffffff26;
     border-radius: 8px;
@@ -824,7 +824,7 @@ input[type="radio"]+label {
     width: 100%;
 }
 
-input[type="radio"]:checked+label {
+input[type="radio"]:checked + label {
     background: #ffffff06;
     border: 2px solid #eeeeee;
 }
@@ -991,7 +991,7 @@ footer {
     backdrop-filter: blur(10px) !important;
 }
 
-.iziToast>.iziToast-body .iziToast-title {
+.iziToast > .iziToast-body .iziToast-title {
     font-size: 16px !important;
 }
 
@@ -999,7 +999,7 @@ footer {
     line-height: 18px !important;
 }
 
-.iziToast>.iziToast-body .iziToast-message {
+.iziToast > .iziToast-body .iziToast-message {
     margin: 6px 0px 4px 0px !important;
 }
 
@@ -1007,13 +1007,13 @@ footer {
     box-shadow: none !important;
 }
 
-.iziToast>.iziToast-body .iziToast-texts {
+.iziToast > .iziToast-body .iziToast-texts {
     margin: 6px 6px !important;
     display: flex !important;
     align-items: center;
 }
 
-.iziToast>.iziToast-body i {
+.iziToast > .iziToast-body i {
     margin-left: 6px;
     margin-top: 10px;
 }
@@ -1022,7 +1022,7 @@ footer {
     word-break: break-all !important;
 }
 
-.iziToast>.iziToast-close {
+.iziToast > .iziToast-close {
     background: url(https://cdn.jsdelivr.net/gh/imsyy/file/pic/close.png) no-repeat 50% 50% !important;
     background-size: 8px !important;
 }
