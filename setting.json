@@ -1,23 +1,23 @@
 {
-    "title": "Jayhrnの主页",
+    "title": "Jerの主页",
     "description": "一个默默无闻的主页",
-    "keywords": "Jayhrn,个人主页",
-    "author": "Jayhrn",
+    "keywords": "Jer,个人主页",
+    "author": "Jer",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "Jayhrn",
-    "logo_text_2": "com",
-    "github": "Jayhrn",
-    "qq": "1569624265",
-    "email": "1569624265@qq.com",
-    "bilibili": "340543148",
+    "logo_text_1": "Jersite",
+    "logo_text_2": "gq",
+    "github": "Jer2008",
+    "qq": "jer",
+    "email": "jer8260@gmail.com",
+    "bilibili": "",
     "facebook": "bottom_user",
     "link_1": [
-        "https://blog.jayhrn.com/",
+        "https://blog.jersite.gq/",
         "fa-solid fa-blog",
         "博客"
     ],
     "link_2": [
-        "https://tongji.baidu.com/",
+        "https://jerweb.gq/",
         "fa-solid fa-cloud",
         "统计"
     ],
@@ -27,20 +27,20 @@
         "音乐"
     ],
     "link_4": [
-        "https://www.jayhrn.com/",
+        "https://www.jersite.gq/",
         "fa-solid fa-compass",
         "起始页"
     ],
     "link_5": [
-        "https://blog.jayhrn.com/stars/",
+        "https://blog.jersite.gq/links/",
         "fa-solid fa-book-bookmark",
         "网址集"
     ],
     "link_6": [
-        "https://jayhrn.com/",
+        "https://jersite.gq/",
         "fa-solid fa-flask",
         "实验室"
     ],
-    "Copyright_text": "Jayhrn",
+    "Copyright_text": "Jer",
     "beian": "嘻嘻，还没有备案噢\uD83E\uDD2D"
 }
